@@ -4,7 +4,7 @@ Multi-page Streamlit Application
 Pages: Home | Detection | Results | Metrics | Research | About
 """
  
-import streamlit as stC
+import streamlit as st
 import numpy as np
 import cv2
 import os
