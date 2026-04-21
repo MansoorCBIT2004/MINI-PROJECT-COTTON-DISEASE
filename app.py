@@ -102,7 +102,10 @@ html,body,[class*="css"]{font-family:'DM Sans',sans-serif;background-color:var(-
 #  CONSTANTS
 # ══════════════════════════════════════════════════════════════════
 CLASS_DISPLAY = ["Bacterial Blight", "Curl Virus", "Fussarium Wilt", "Healthy"]
- 
+
+
+
+
 MODEL_PATHS = {
     "CNN (MobileNetV2)": "models/cnn_model.h5",
     "CNN-LSTM":          "models/cnn_lstm_model.h5",
