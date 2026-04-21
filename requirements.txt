@@ -3,5 +3,5 @@ numpy
 pandas
 Pillow
 opencv-python-headless
+tensorflow==2.13.0
 h5py
-tensorflow==2.12.0
